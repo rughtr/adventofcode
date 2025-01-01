@@ -4,4 +4,4 @@
 *.prof
 *.svg
 
-dump.txt
+*dump.txt
